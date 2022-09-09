@@ -1,0 +1,11 @@
+tbody tr:nth-child(odd) {
+    background-color: #fff0c7;
+}
+
+thead tr th {
+    width: 10%;
+}
+
+.large {
+  width: 30%;
+}
